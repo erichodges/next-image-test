@@ -1,6 +1,13 @@
 module.exports = {
   images: {
-    loader: 'cloudinary',
-    path: 'https://example.com/myaccount/'
+    domains: ['res.cloudinary.com']
   }
 };
+
+//
+// module.exports = {
+//   images: {
+//     loader: 'cloudinary',
+//     path: 'https://example.com/myaccount/'
+//   }
+// };
