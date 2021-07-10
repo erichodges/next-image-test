@@ -10,7 +10,6 @@ export default function Home() {
           width='2400'
           height='1200'
           layout='responsive'
-          // placeholder='blur'
         />
       </div>
     </div>
