@@ -8,7 +8,8 @@ export default function p2() {
         <Image
           cloudName='dn3baky3u'
           publicId='v1576797449/gatsby-cloudinary/evora-gt-front'
-          width='auto'
+          width='2400'
+          height='1200'
           alt='image'
         />
       </div>
