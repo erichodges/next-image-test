@@ -10,6 +10,7 @@ export default function p2() {
           publicId='v1576797449/gatsby-cloudinary/evora-gt-front'
           width='2400'
           height='1200'
+          layout='responsive'
           alt='image'
         />
       </div>
