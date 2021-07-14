@@ -17,6 +17,7 @@ export default function Home() {
   );
 }
 
+// Old approach:
 // import { Image } from 'cloudinary-react';
 
 // export default function Home() {
