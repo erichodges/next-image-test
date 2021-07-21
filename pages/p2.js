@@ -21,7 +21,7 @@ export default function Home() {
 
           <p
             sx={{
-              fontSize: '3rem'
+              fontSize: '2rem'
             }}
           >
             Yo duuuuude...
