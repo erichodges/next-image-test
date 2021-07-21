@@ -1,6 +1,6 @@
 /* eslint-disable import/no-anonymous-default-export */
 // src/pages/_document.js
-import Document, { Main, NextScript } from 'next/document';
+import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { InitializeColorMode } from 'theme-ui';
 
 export default class extends Document {
